@@ -6,10 +6,10 @@
 ### Datos del Alumno
 
 | Campo | Respuesta |
-| :--- | :--- |
-| **Nombre** | |
-| **Apellido** | |
-| **Legajo** | |
+| :--- |:----------|
+| **Nombre** | Facundo   |
+| **Apellido** | Mesa      |
+| **Legajo** | 62232     |
 
 > **Fecha de entrega:** 28 de Abril de 2026
 
